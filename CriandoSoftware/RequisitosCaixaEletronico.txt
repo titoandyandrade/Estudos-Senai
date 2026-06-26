@@ -1,0 +1,21 @@
+Simulador de Caixa Eletrônico
+
+Nome do banco: BancoProg
+
+CADASTRO DO USUARIO
+
+Autenticação: Dados do usuário (Agencia, Conta e Senha) valores fixos para teste
+
+MENU PRINCIPAL: Consulta de saldo, depósito, saque, extrato simplificado e encerramento da sessão
+
+VALIDAÇÕES:
+1- se saldo é suficiente para saque (saque <= saldo)
+2- se valor de saque ou depósito é positivo (saque e depósito > 0)
+3- tratar entradas inválidas (caso contrário "Opção inválida!")
+4- bloquear o acesso após 3 tentativas de senha incorreta
+
+ESTRUTURA:
+Pelo menos uma estrutura escolha-caso
+Pelo menos uma estrutura de repetição (Enquanto ou Para)
+Pelo menos uma função com retorno de valor
+Pelo menos um procedimento sem retorno (ex.: Cabeçalho/Título) 
