@@ -21,3 +21,6 @@ args = "python3 main.py"
 
 [workflows.workflow.metadata]
 outputType = "console"
+
+[nix]
+channel = "stable-25_05"
