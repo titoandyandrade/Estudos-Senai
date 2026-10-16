@@ -1,10 +1,10 @@
-import boasvindas
-import numinteiro
-import medianotas
-import dadosusuario
-import operacoesmat
-import salario
-import imc
-import desconto_precofinal
-import area_perimetro
-import area_circunferencia
+import boasvindas as boasvindas
+import numinteiro as numinteiro
+import medianotas as medianotas
+import dadosusuario as dadosusuario
+import operacoesmat as operacoesmat
+import salario as salario
+import imc as imc
+import desconto_precofinal as desconto_precofinal
+import area_perimetro as area_perimetro
+import area_circunferencia as area_circunferencia
