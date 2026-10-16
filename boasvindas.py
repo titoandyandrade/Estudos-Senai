@@ -1,7 +1,7 @@
 import os
 
 def limpar_tela():
-    input("Pressione Enter para iniciar")
+    input("\nPressione Enter para iniciar")
     os.system('cls' if os.name == 'nt' else 'clear')
 def exibirCabecalho():
     print("=" * 30)

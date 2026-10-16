@@ -1,6 +1,10 @@
-#import boasvindas
-#import numinteiro
-#import medianotas
-#import dadosusuario
-import flask
-print(flask.__version__)
+import boasvindas
+import numinteiro
+import medianotas
+import dadosusuario
+import operacoesmat
+import salario
+import imc
+import desconto_precofinal
+import area_perimetro
+import area_circunferencia
